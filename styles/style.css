@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+  }
+html {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: skyblue;
+}
+body {
+    width: 90%;
+    margin: 10px auto;
+    background-color: lightsalmon;
+    padding: 5px 20px 20px 20px;
+    border: 1px solid grey;
+  }
+h1 {
+   
+    font-size: 30px;
+    text-align: center;  
+   
+}
+p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+.header img {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+}
+.img1:hover {
+    opacity: 0.7;
+}
+#git a:hover {
+    background: olive;
+}
+ a {
+    text-decoration: none;
+   
+}
+li a:hover {
+    background: olive;
+}
+
