@@ -33,9 +33,7 @@ p, li {
     display: block;
     margin: 0 auto;
 }
-.img1:hover {
-    opacity: 0.7;
-}
+
 #git a:hover {
     background: olive;
 }
