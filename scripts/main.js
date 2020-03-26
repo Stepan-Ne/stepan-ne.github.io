@@ -8,5 +8,5 @@ img.onclick = function() {
     i = 0;
    }
 }
-let images = ['images/triangles.png', 'images/circles.jpg'];
+let images = ['images/img1.jpg', 'images/img2.jpg'];
 let i = 0;
